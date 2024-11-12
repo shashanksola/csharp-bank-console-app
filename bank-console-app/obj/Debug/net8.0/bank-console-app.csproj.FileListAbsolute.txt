@@ -1,0 +1,14 @@
+S:\My Files\Chubb\Assignments\bank-console-app\bank-console-app\bin\Debug\net8.0\bank-console-app.exe
+S:\My Files\Chubb\Assignments\bank-console-app\bank-console-app\bin\Debug\net8.0\bank-console-app.deps.json
+S:\My Files\Chubb\Assignments\bank-console-app\bank-console-app\bin\Debug\net8.0\bank-console-app.runtimeconfig.json
+S:\My Files\Chubb\Assignments\bank-console-app\bank-console-app\bin\Debug\net8.0\bank-console-app.dll
+S:\My Files\Chubb\Assignments\bank-console-app\bank-console-app\bin\Debug\net8.0\bank-console-app.pdb
+S:\My Files\Chubb\Assignments\bank-console-app\bank-console-app\obj\Debug\net8.0\bank-console-app.GeneratedMSBuildEditorConfig.editorconfig
+S:\My Files\Chubb\Assignments\bank-console-app\bank-console-app\obj\Debug\net8.0\bank-console-app.AssemblyInfoInputs.cache
+S:\My Files\Chubb\Assignments\bank-console-app\bank-console-app\obj\Debug\net8.0\bank-console-app.AssemblyInfo.cs
+S:\My Files\Chubb\Assignments\bank-console-app\bank-console-app\obj\Debug\net8.0\bank-console-app.csproj.CoreCompileInputs.cache
+S:\My Files\Chubb\Assignments\bank-console-app\bank-console-app\obj\Debug\net8.0\bank-console-app.dll
+S:\My Files\Chubb\Assignments\bank-console-app\bank-console-app\obj\Debug\net8.0\refint\bank-console-app.dll
+S:\My Files\Chubb\Assignments\bank-console-app\bank-console-app\obj\Debug\net8.0\bank-console-app.pdb
+S:\My Files\Chubb\Assignments\bank-console-app\bank-console-app\obj\Debug\net8.0\bank-console-app.genruntimeconfig.cache
+S:\My Files\Chubb\Assignments\bank-console-app\bank-console-app\obj\Debug\net8.0\ref\bank-console-app.dll
